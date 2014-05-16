@@ -1,3 +1,4 @@
+// -*- compile-command: "gcc -o stopwatch stopwatch.c -Wall" -*-
 // Simple stopwatch program that displays from hours to milliseconds
 // 2014 Michael Caldwell
 
